@@ -1,2 +1,4 @@
 # cgo
-cgo by example
+CGO Examples
+
+http://blog.giorgis.io/cgo-examples
